@@ -69,4 +69,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cj-prince&show_icons=true&locale=en" alt="cj-prince" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cj-prince&" alt="cj-prince" /></p>
