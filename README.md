@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Davids Chijioke</h1>
-<h3 align="center">A result drivien backend developer</h3>
+<h3 align="center">A result-driven fullstack developer</h3>
+<h3 align=""> 🧠 Constantly learning </h3>
+<h3 align="">  🛠️ Focused on security, performance, developer experience, and clean UI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cj-prince&label=Profile%20views&color=0e75b6&style=flat" alt="cj-prince" /> </p>
 
@@ -67,5 +69,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cj-prince&show_icons=true&locale=en&layout=compact" alt="cj-prince" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cj-prince&show_icons=true&locale=en" alt="cj-prince" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cj-prince&show_icons=true&locale=en" alt="cj-prince" /></p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cj-prince&&show_icons=true&theme=react&hide=contribs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cj-prince&theme=react" />
+</div>
